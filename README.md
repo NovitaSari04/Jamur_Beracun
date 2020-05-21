@@ -38,5 +38,3 @@ __Requirements:__
 - Buat model yang dapat mengklasifikasikan jamur beracun dan tidak. Algoritma model bebas.
 - Tentukan & hitung metriks evaluasi model.
 - Gambarkan plot ROC AUC model.
-
-✅ _Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Jamur_Beracun__, kemudian lampirkan __url link repo Github__ Anda via email ke lintang@purwadhika.com!_
